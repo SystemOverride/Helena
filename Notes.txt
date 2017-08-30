@@ -1,0 +1,14 @@
+Right now the current needs are being discussed. 
+
+So far:
+
+GitHub - for project hosting
+Wiki - for easily displaying organized information
+Forum - for communication and collaboration
+Tools - Customized tools to make the project
+
+Deciding on engine and software to ensure compatibility.
+
+Diagramming the workflow and relationships.
+
+(List not complete)
