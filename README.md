@@ -1,2 +1,2 @@
 # Helena
-Lore
+Lore based game.
